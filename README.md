@@ -17,7 +17,7 @@ This project is a Python-based simulator for a coffee machine. It allows users t
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/coffeemachine.git
+    git clone https://github.com/tharunerd/coffemaker.git
     ```
 2. Navigate to the project directory:
     ```bash
